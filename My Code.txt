@@ -5,3 +5,38 @@ First Line
 New Branch
 
 Mergeado
+
+Begin
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/Main.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header1">
+                <div class="Novo">
+                <img src="./img/Novo.png">
+                </div>
+                <div class="redes-sociais">
+                    <ul>
+                        <li><a href=""><img src="./img/Linkedin.png"></a></li>
+                        <li><a href=""><img src="./img/Twiter.png"></a></li>
+                        <li><a href=""><img src="./img/Facebook.png"></a></li>
+                        <li><a href=""><img src="./img/Seila.png"></a></li>
+                    </ul>
+                <img src="" alt="">
+                </div>
+            </div>
+        </main>
+    </header>
+    
+</body>
+</html>
